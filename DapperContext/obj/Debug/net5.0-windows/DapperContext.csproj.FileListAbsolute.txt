@@ -1,0 +1,5 @@
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0-windows\DapperContext.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0-windows\DapperContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0-windows\DapperContext.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0-windows\DapperContext.AssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0-windows\DapperContext.csproj.CoreCompileInputs.cache

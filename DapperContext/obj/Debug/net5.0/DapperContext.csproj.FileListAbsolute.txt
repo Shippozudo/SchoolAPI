@@ -1,0 +1,15 @@
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\DapperContext.deps.json
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\DapperContext.dll
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\ref\DapperContext.dll
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\DapperContext.pdb
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\Dominio.dll
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\bin\Debug\net5.0\Dominio.pdb
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.AssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.csproj.CoreCompileInputs.cache
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.csproj.CopyComplete
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.dll
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\ref\DapperContext.dll
+C:\Users\PremierSoft\Arquivos VS\SchoolAPI  Dapper - EF\DapperContext\obj\Debug\net5.0\DapperContext.pdb
